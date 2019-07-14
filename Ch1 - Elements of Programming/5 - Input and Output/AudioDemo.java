@@ -9,6 +9,5 @@ public class AudioDemo {
             a[i] = Math.sin(2 * Math.PI * i * hz / sps);
         }
         StdAudio.play(a);
-
     }
 }
