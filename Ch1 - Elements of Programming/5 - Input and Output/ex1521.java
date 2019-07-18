@@ -1,4 +1,4 @@
-public class ex1520 {
+public class ex1521 {
     public static void main(String[] args) {
         double N = Double.parseDouble(args[0]);
         StdDraw.setXscale(-1.0, 1.0);
